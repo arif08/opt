@@ -1,0 +1,10 @@
+*.iws
+*Db.properties
+*Db.script
+.settings
+eclipse
+*.log
+target
+/web-app
+plugin.xml
+*.zip
